@@ -5,6 +5,7 @@ Mouse click on a primary floating gui button will make a mouse click on the posi
 Windows PC:
 1) download the portal.ahk file
 2) install autohotkey from official site: https://autohotkey.com/
+
 Android:
 1) download the WormHole.zip file
 2) build the file using Android Studio
